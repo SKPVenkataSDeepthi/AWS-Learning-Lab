@@ -5,7 +5,7 @@
 ### Building cloud-native systems, serverless applications, AI-powered solutions, and modern data platforms on AWS.
 
 <p align="center">
-  <img src="images/aws-banner.png" width="100%">
+  <img src="https://github.com/SKPVenkataSDeepthi/AWS-Learning-Lab/blob/main/Images/Banner.png" width="100%">
 </p>
 
 <p>
@@ -58,7 +58,7 @@ Topics include
 # AWS Learning Journey
 
 <p align="center">
-  <img src="images/aws-roadmap.png" width="95%">
+  <img src="https://github.com/SKPVenkataSDeepthi/AWS-Learning-Lab/blob/main/Images/Learning%20Journey.png">
 </p>
 
 This roadmap represents the progression of cloud engineering concepts explored throughout this repository—from cloud foundations and core infrastructure services to serverless computing, data engineering, AI/ML, infrastructure as code, and production-inspired architectures.
@@ -218,7 +218,7 @@ aws-learning-lab/
 # Engineering Focus
 
 <p align="center">
-  <img src="images/aws-engineering-workspace.png" width="100%">
+  <img src="https://github.com/SKPVenkataSDeepthi/AWS-Learning-Lab/blob/main/Images/git%20thumbnail.png" width="100%">
 </p>
 
 This repository emphasizes practical cloud engineering through architecture design, infrastructure automation, serverless development, AI integration, and modern AWS services, with each project contributing to a progressively broader cloud engineering toolkit.
@@ -317,6 +317,22 @@ This repository explores cloud engineering from both architectural and implement
 
 ---
 
-# Connect
+## Looking Ahead
 
-If you're interested in cloud architecture, serverless systems, data engineering, or Generative AI on AWS, feel free to explore the repository and follow along as new projects and implementations are added.
+This repository will continue to evolve with new architectures, hands-on implementations, design patterns, and production-inspired AWS projects as I explore the AWS ecosystem.
+
+If you find something interesting, have suggestions, or would like to discuss cloud technologies, feel free to connect or open an issue.
+
+⭐ If this repository provides value, consider starring it to follow future updates.
+
+---
+
+<div align="center">
+
+**Thanks for visiting AWS Learning Lab.**
+
+*Build • Learn • Architect • Innovate*
+
+☁️ Happy Cloud Building!
+
+</div>
